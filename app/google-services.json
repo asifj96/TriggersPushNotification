@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "19382752021",
+    "firebase_url": "https://duplicate-file-remover-bcc6c-default-rtdb.firebaseio.com",
+    "project_id": "duplicate-file-remover-bcc6c",
+    "storage_bucket": "duplicate-file-remover-bcc6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19382752021:android:140b2ae134b9014e89cf1c",
+        "android_client_info": {
+          "package_name": "com.example.qrreceiptscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19382752021-7c532f8c8cuu8ekren1gnf76bj0avdep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97c-M-WD8uuulG0llAUOB3UVwmZNYHlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19382752021-7c532f8c8cuu8ekren1gnf76bj0avdep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19382752021:android:36613e6bd90e7cae89cf1c",
+        "android_client_info": {
+          "package_name": "com.gammaapps.replicafileremover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19382752021-tk4log1daekphdckf166guug7meehki3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gammaapps.replicafileremover",
+            "certificate_hash": "c0ca4df866e8937e22ed3175e39ea71f551c328f"
+          }
+        },
+        {
+          "client_id": "19382752021-7c532f8c8cuu8ekren1gnf76bj0avdep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97c-M-WD8uuulG0llAUOB3UVwmZNYHlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19382752021-7c532f8c8cuu8ekren1gnf76bj0avdep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19382752021:android:d495c8c4ca908d9f89cf1c",
+        "android_client_info": {
+          "package_name": "com.tech.digitalcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19382752021-7c532f8c8cuu8ekren1gnf76bj0avdep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97c-M-WD8uuulG0llAUOB3UVwmZNYHlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19382752021-7c532f8c8cuu8ekren1gnf76bj0avdep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19382752021:android:3f33a5b5c9cbbb2c89cf1c",
+        "android_client_info": {
+          "package_name": "com.tech.triggerspushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19382752021-7c532f8c8cuu8ekren1gnf76bj0avdep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97c-M-WD8uuulG0llAUOB3UVwmZNYHlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19382752021-7c532f8c8cuu8ekren1gnf76bj0avdep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
